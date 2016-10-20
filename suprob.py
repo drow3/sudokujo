@@ -19,7 +19,7 @@ f = open("sod2.txt","r")
 fsod2 = f.read()
 f.close
 print()
-print("Mostest impressivestest SUDOKU HYPE game 2k16!!4!!!4!")
+print('\033[1;35;40m Mostest impressivestest SUDOKU HYPE game 2k16!!4!!!4!')
 print()
 print(fsod2)
 while 1:
